@@ -36,7 +36,7 @@ ever_after = media.Movie("Ever After",
                          "Comedy, Drama, Romance",
                          "121 mins",
                          "https://upload.wikimedia.org/wikipedia/en/6/6e/Everafterposter.jpg",
-                         "https://youtu.be/Hcj9fyx6DXI")
+                         "hhttps://youtu.be/L3eMhbH_-nM")
 
 the_family_stone = media.Movie("The Family Stone",
                                "An uptight, conservative, businesswoman accompanies her boyfriend to his eccentric and outgoing family's annual Christmas celebration and finds that she's a fish out of water in their free-spirited way of life.",
@@ -92,14 +92,14 @@ practical_magic = media.Movie("Practical Magic",
                               "Comedy, Fantasy, Drama",
                               "104 mins",
                               "http://filmonizirani.net/wp-content/uploads/2015/06/practical-magic-poster.jpg",
-                              "https://youtu.be/go8bdi-EJQk")
+                              "https://youtu.be/zZf-HiXQXnE")
 
 harry_potter_hbp = media.Movie("Harry Potter and the Half-Blood Prince",
                                "As Harry Potter begins his sixth year at Hogwarts, he discovers an old book marked as 'the property of the Half-Blood Prince' and begins to learn more about Lord Voldemort's dark past.",
                                "Adventure, Fantasy, Family",
                                "153 mins",
                                "http://thesmith.org/wp-content/uploads/2015/09/hp-and-the-Half-Blood-Prince-movie-poster.jpg",
-                               "https://youtu.be/4ukhVzqnUdI")
+                               "https://youtu.be/jpCPvHJ6p90")
 
 the_bourne_identity = media.Movie("The Bourne Identity",
                                   "A man is picked up by a fishing boat, bullet-riddled and suffering from amnesia, before racing to elude assassins and regain his memory.",
