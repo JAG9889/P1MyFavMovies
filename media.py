@@ -3,6 +3,7 @@ import webbrowser
 
 # This is the class movie which had had a few new added attributes.
 class Movie ():
+    """This class stores attributes that will be provided for each movie."""
     def __init__(self, movie_title, movie_synopsis, movie_genre, movie_length,
                  poster_image_url, trailer_youtube_url):
                     self.title = movie_title
