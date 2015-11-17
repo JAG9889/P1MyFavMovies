@@ -1,6 +1,9 @@
 # importing the Movie class and fresh_tomatoes for functionality
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
 import fresh_tomatoes
 import media
+
 
 # instances of the Movie class
 midnight_in_paris = media.Movie("Midnight in Paris",
